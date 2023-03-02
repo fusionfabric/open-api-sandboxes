@@ -1,1 +1,3 @@
-
+remote_theme: pmarsceill/just-the-docs
+logo: "/images/logo.png"
+footer_content: "Copyright &copy; 2021 Finastra.

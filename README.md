@@ -1,3 +1,9 @@
+---
+layout: default
+title: Building Blocks
+nav_order: 2
+---
+
 ![](images/logo.png)
 
 # Sandboxes / Payments-To-Go Sandbox

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building Blocks
+title: Sandboxes
 nav_order: 2
 ---
 

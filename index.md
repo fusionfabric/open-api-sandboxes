@@ -4,7 +4,7 @@ title: Welcome
 nav_order: 1
 ---
 # Sandboxes / Payments-To-Go Sandbox
-![](images/logo.png)
+![](images/cover.png)
 
 # Welcome
 

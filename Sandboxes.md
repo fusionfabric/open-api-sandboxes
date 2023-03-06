@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Sandboxes
+title: Sandbox P2G
 nav_order: 2
 ---
 
-![](images/logo.png)
 
 # Sandboxes / Payments-To-Go Sandbox
 

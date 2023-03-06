@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 nav_order: 1
 ---
-# Sandboxes / Payments-To-Go Sandbox
+# Sandboxes
 ![](images/cover.png)
 
 # Welcome

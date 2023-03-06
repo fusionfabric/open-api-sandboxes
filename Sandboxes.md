@@ -7,9 +7,6 @@ nav_order: 2
 ![](images/logo.png)
 
 # Sandboxes / Payments-To-Go Sandbox
-![](images/cover.png)
-## PURPOSE
-Finastra provides sandboxes with its core products, so that FinTechs and partners can connect to build, integrate, and test their innovative applications. A sandbox is a test environment with the same Finastra solutions that financial institutions are using across the world.
 
 ## OVERVIEW
 Below sandboxes are test environments of Payments-To-Go, which are available to developers registered on [FusionFabric.cloud](https://developer.fusionfabric.cloud/) platform to perform API calls. The documentation on building Applications in the platform to access sandboxes is available here: [Get Started with FusionCreator.](https://developer.preprod.fusionfabric.cloud/documentation/get-started/index) These environments are fully capable products, and therefore it is possible to execute and test, on the sandbox, real use cases and end-to-end scenarios, for example initiating a payment via API and updating the payment status via other API calls.

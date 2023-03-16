@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sandbox P2G
+title: Payments-To-Go
 nav_order: 2
 ---
 

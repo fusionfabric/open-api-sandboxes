@@ -16,7 +16,7 @@ The sandbox URLs are:
 
 | Payments-To-Go Sandbox  | BaseURL |
 | ------------- | ------------- |
-| US & Americas  | https://api.fusionfabric.cloud/login/v1/p2g-us-sandbox/ |
+| US & Americas  | [https://api.fusionfabric.cloud/login/v1/p2g-us-sandbox/](https://api.fusionfabric.cloud/login/v1/p2g-us-sandbox/)|
 | Europe  | https://api.fusionfabric.cloud/login/v1/p2g-eu-sandbox/ |
 | South Africa  | https://api.fusionfabric.cloud/login/v1/p2g-sa-sandbox/ |
 | US & Americas (baseline version of P2G) | https://api.fusionfabric.cloud/login/v1/p2g-4619-us-sandbox/ |

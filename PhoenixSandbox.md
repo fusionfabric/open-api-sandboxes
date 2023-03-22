@@ -10,7 +10,9 @@ nav_order: 3
 ## OVERVIEW
 The Fusion Phoenix sandbox environment is available to developers registered on [FusionFabric.cloud](https://developer.fusionfabric.cloud/) platform to perform Fusion Phoenix API calls. Both Fusion Phoenix Product Integration API calls (SDK) and Fusion Phoenix US Core Banking API calls (BaaS) can be tested in this sandbox.  The environment is a fully capable product and therefore it is possible to execute and test real use cases and end-to-end scenarios.
 
-The documentation on building Applications in the platform to access sandboxes is available here: [Get Started with FusionCreator.](https://developer.preprod.fusionfabric.cloud/documentation/get-started/index)
+The complete set of Fusion Phoenix APIs compatible with the sandbox is available here: [Fusion Phoenix APIs](<https://developer.fusionfabric.cloud/explore/apis?coreProducts=Fusion%20Phoenix>)
+
+The documentation on building Applications in the platform to access sandboxes is available here: [Get Started with FusionCreator](https://developer.preprod.fusionfabric.cloud/documentation/get-started/index)
 
 ## SANDBOXES
 The sandbox URLs are:

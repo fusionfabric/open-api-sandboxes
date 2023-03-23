@@ -12,7 +12,7 @@ The Fusion Phoenix sandbox environment is available to developers registered on 
 
 The complete set of Fusion Phoenix APIs compatible with the sandbox is available here: [Fusion Phoenix APIs](<https://developer.fusionfabric.cloud/explore/apis?coreProducts=Fusion%20Phoenix>)
 
-The documentation on building Applications in the platform to access sandboxes is available here: [Get Started with FusionCreator](https://developer.preprod.fusionfabric.cloud/documentation/get-started/index)
+The documentation on building Applications in the platform to access sandboxes is available here: [Get Started with FusionCreator](https://developer.fusionfabric.cloud/documentation/get-started/index)
 
 ## SANDBOXES
 The sandbox URLs are:

@@ -20,3 +20,5 @@ audience is designers, developers and consumers of Finastra Open APIs available 
 # How to use a Sandbox ?
 
 When you register an application on FusionCreator, you get, by default, access to APIs from the Sandbox tenant, that are backed by live instances of core systems. Thus, you experience the interaction with a real environment, very similar to what you can get from a production environment.At this stage, your application is in development mode.
+
+![](images/SandboxExample.png)
